@@ -4,8 +4,9 @@
    The modern age is the age of machine intelligence. These are such buzzwords that has taken the world by storm and almost every avenue has enjoyed the flavor of Machine          Learning in some way. In this report we are going to take you through a real-world data science problem which we have picked from Kaggle’s live competition and will              demonstrate our way of solving it.
    This case study solves everything right from scratch. So, you will get to see each and every phase of how in the real world, a case study is solved. Before we talk about our    approach of solving the problem, let us know what Mercari is.
 
-   About Mercari:
-   Mercari is an online shopping marketplace which is powered by one of the biggest community of Japan where users can sell pretty much anything. The community wants to offer      price suggestions to the sellers but is a tough task as the sellers are enabled to put just about anything, or any bundle of things, on Mercari’s marketplace
+      About Mercari:
+      Mercari is an online shopping marketplace which is powered by one of the biggest community of Japan where users can sell pretty much anything. The community wants to offer       price suggestions to the sellers but is a tough task as the sellers are enabled to put just about anything, or any bundle of things, on Mercari’s marketplace
+   
 
 2.	Problem Statement:
    •	It can be hard to know how much something’s really worth. Small details can mean big differences in pricing. For example, one of these sweaters cost 335 dollars and the          other cost 9.99 dollars. Can you guess which one’s which?
