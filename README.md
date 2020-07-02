@@ -22,7 +22,7 @@
 
 
 4.	Our Objectives:
-    1.	• Data Cleaning • Pre-processing • Feature Engineering
+    1. • Data Cleaning • Pre-processing • Feature Engineering
     2.	Exploratory Data Analysis:
        •	Gathering as many insights as possible through Exploratory Data Analysis.
        •	Trying to see through Descriptive Statistics that what our data is trying to tell us and understand the significance of each and every variable.
